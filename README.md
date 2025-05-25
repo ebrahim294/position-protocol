@@ -46,7 +46,7 @@ yarn compile
 
 ### Local development
 
-Deploy in the local environment.
+Deploy in the local environmental.
 
 ```
 yarn dev
